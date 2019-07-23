@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "913376331111",
+    "firebase_url": "https://rencaronline-bec51.firebaseio.com",
+    "project_id": "rencaronline-bec51",
+    "storage_bucket": "rencaronline-bec51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913376331111:android:2f8ced6bb58367e8",
+        "android_client_info": {
+          "package_name": "sanchezartega.facci.rencaronline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913376331111-f8tu39otdb7dvju0qhv1frqodfto2o86.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sanchezartega.facci.rencaronline",
+            "certificate_hash": "97f9b08ce0eebe87a9588aa1a5ca35af8ef805f8"
+          }
+        },
+        {
+          "client_id": "913376331111-cbvrri208r42p5n1urq19fcdv627317q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvGGBLVrWMrwccePaz-Q3fVbNCEt3D6QM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913376331111-cbvrri208r42p5n1urq19fcdv627317q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

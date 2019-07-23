@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">RencarOnline</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_send">Send</string>
+
+
+    <string name="Rencar">Arienda rapido arrienda seguro</string>
+    <string name="Login">Login con</string>
+    <string name="Rrec">RencarOnline</string>
+    <string name="signup">Don\'t have an Account? <b>Sign Up</b></string>
+    <string name="label1">Don\'t wait</string>
+    <string name="label2">Log in or create a new account now</string>
+    <string name="email">Enter Email</string>
+    <string name="password">Enter Password</string>
+    <string name="social">lOGIN CON</string>
+    <string name="facebook">Facebook</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">Siguiente</string>
+    <string name="skip">Omitir</string>
+    <string name="start">Ingresar</string>
+
+    <string name="slide_1_title">Hello Food!</string>
+    <string name="slide_1_desc">The easiest way to order food from your favourite restaurant!</string>
+
+    <string name="slide_2_title">Movie Tickets</string>
+    <string name="slide_2_desc">Book movie tickets for your family and friends!</string>
+
+    <string name="slide_3_title">Great Discounts</string>
+    <string name="slide_3_desc">Best discounts on every single service we offer!</string>
+
+    <string name="slide_4_title">World Travel</string>
+    <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="REGIS">Registro</string>
+
+
+    <string name="hintEmail">E-mail</string>
+    <string name="hintPass">Password</string>
+    <string name="Gmail">Gmail</string>
+    <string name="btLogin">Log In</string>
+    <string name="btSignUp">Sign Up</string>
+    <string name="forget_password">Forget your Password?</string>
+    <string name="check_remember_me">Remember me</string>
+
+    <string name="RE1">RENCARONLINE</string>
+    <string name="RE">Registrar</string>
+    <string name="R">Registrese gratis</string>
+    <string name="Lo">Login</string>
+    <string name="MO">Modificar</string>
+    <string name="DE">Eliminar</string>
+    <string name="ing">Ingrese sus nombres</string>
+    <string name="INGA">Ingrese sus apellidos</string>
+    <string name="INCL">Ingrese su clave</string>
+    <string name="REPCL">Repita su clave</string>
+    <string name="INGCOR">Ingrese su correo</string>
+    <string name="INGTEL">Ingrese su telefono</string>
+    <string name="CATEG">CATEGORIA</string>
+    <string name="Autos">Camionestas</string>
+    <string name="Furgo">Furgoneta</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_main">MainActivity</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_navegation_drawe">NavegationDrawe</string>
+
+
+</resources>
